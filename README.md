@@ -27,4 +27,7 @@ Ensure you have these dependencies installed before running the program.+
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/nqXLmxQ)
+![App Screenshot](https://github.com/mjsonu/captcha_gen/blob/main/Screenshot%202024-06-17%20193123.png)<br /> 
+Once you run the program on your system a file named *CAPTCHA2.png* is generated <br /> 
+Hurray and you just created your first captcha!<br /> <br /> 
+![App Screenshot](https://github.com/mjsonu/captcha_gen/blob/main/Screenshot%202024-06-17%20193123.png)<br /> 
